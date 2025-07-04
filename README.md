@@ -1,10 +1,10 @@
 # oldest-us-companies-sql
 Analysis of 200+ year-old businesses using SQL &amp; STAR methodology
-# 📊 SQL Project Results – Oldest U.S. Companies 
+# SQL Project Results – Oldest U.S. Companies 
 
 ---
 
-## ✅ Q1: Top 5 Oldest Companies
+## Q1: Top 5 Oldest Companies
 | Company                  | Year Founded | Age |
 |--------------------------|--------------|-----|
 | Avedis Zildjian Company  | 1623         | 402 |
@@ -15,7 +15,7 @@ Analysis of 200+ year-old businesses using SQL &amp; STAR methodology
 
 ---
 
-## ✅ Q2: Industries with Most Long-Standing Companies
+## Q2: Industries with Most Long-Standing Companies
 | Industry                   | Total Companies |
 |----------------------------|-----------------|
 | Farm / Agriculture         | 8               |
@@ -30,7 +30,7 @@ Analysis of 200+ year-old businesses using SQL &amp; STAR methodology
 
 ---
 
-## ✅ Q3: States Supporting Business Longevity
+## Q3: States Supporting Business Longevity
 | State         | Companies |
 |---------------|-----------|
 | Massachusetts | 5         |
@@ -45,7 +45,7 @@ Analysis of 200+ year-old businesses using SQL &amp; STAR methodology
 
 ---
 
-## ✅ Q4: Highest Estimated Revenue Companies
+## Q4: Highest Estimated Revenue Companies
 | Company                  | Industry             | Estimated Revenue  |
 |--------------------------|----------------------|---------------------|
 | Hudson’s Bay Company     | Retail               | $7.3B (ICE Group)   |
@@ -56,7 +56,7 @@ Analysis of 200+ year-old businesses using SQL &amp; STAR methodology
 
 ---
 
-## ✅ Q5: Average Age per Industry
+## Q5: Average Age per Industry
 | Industry                   | Average Age |
 |----------------------------|-------------|
 | Musical Instruments        | 402         |
@@ -71,7 +71,7 @@ Analysis of 200+ year-old businesses using SQL &amp; STAR methodology
 
 ---
 
-## ✅ Q6: Industries with Age + Revenue Dominance
+## Q6: Industries with Age + Revenue Dominance
 | Industry               | Companies | Avg Age |
 |------------------------|-----------|---------|
 | Farm / Agriculture     | 8         | 337     |
@@ -83,5 +83,5 @@ Analysis of 200+ year-old businesses using SQL &amp; STAR methodology
 
 ---
 
-### 🎯 Summary Insight:
+### Summary Insight:
 > The **oldest and most profitable businesses** are often rooted in **traditional, essential industries** like farming, hospitality, and craftsmanship — especially in **Northeastern U.S. states**.
