@@ -84,4 +84,4 @@ Analysis of 200+ year-old businesses using SQL &amp; STAR methodology
 ---
 
 ### Summary Insight:
-> The **oldest and most profitable businesses** are often rooted in **traditional, essential industries** like farming, hospitality, and craftsmanship — especially in **Northeastern U.S. states**.
+> The **oldest and most profitable businesses** are often rooted in **traditional, essential industries** like farming, hospitality, and craftsmanship especially in **Northeastern U.S. states**.
